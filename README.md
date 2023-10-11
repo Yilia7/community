@@ -1,4 +1,3 @@
-# community
 # 智慧社区管理系统
 
 # 此项目是基于Node.JS的sails框架，使用MongoDB数据库，前端应用bootstrap模板，加上Vue3的一些功能，利用axios接口完成的智慧社区管理系统。
